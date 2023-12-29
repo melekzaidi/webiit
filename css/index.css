@@ -1,0 +1,13 @@
+.element-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centerheader{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;}
+    .lisquare{
+        list-style-type:none;    }
